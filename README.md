@@ -14,7 +14,7 @@
 
 ### About me
 
-I am a PhD candidate at UCF, advised by [Prof. George Atia](https://scholar.google.com/citations?user=6Hs0fIUAAAAJ&hl=en), working in the Data Science Laboratory.
+I am a PhD candidate at UCF, advised by Prof. George Atia, working in the Data Science Laboratory.
 My research makes reinforcement learning agents better at **long-horizon tasks whose rewards depend on history**.
 I do this by learning and using **automata (DFAs / reward machines)** that capture the task structure.
 
