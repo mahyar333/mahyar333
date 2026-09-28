@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mahyar333.github.io"><img src="https://img.shields.io/badge/Website-mahyar333.github.io-2a6fd1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=6Hs0fIUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/mahyar-alinejad-56254820a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
