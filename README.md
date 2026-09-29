@@ -31,7 +31,7 @@ I do this by learning and using **automata (DFAs / reward machines)** that captu
 |---|---|:---:|
 | **Hybrid Offline Passive Grammatical Inference and Online Planning for Non-Markovian Tasks** (HiPO) | IEEE ICASSP 2025 | [HiPO](https://github.com/mahyar333/HiPO) |
 | **Dynamic Automaton Refinement and Planning for Non-Markovian RL** (DARP) | IEEE ICASSP 2026 | [DARP](https://github.com/mahyar333/DARP) |
-| **CADENT: Gated Hybrid Distillation for Sample-Efficient Transfer in RL** | AISTATS 2026 | *coming soon* |
+| **CADENT: Gated Hybrid Distillation for Sample-Efficient Transfer in RL** | AISTATS 2026 | [CADENT](https://github.com/mahyar333/CADENT) |
 | **Automaton Distillation: Neuro-Symbolic Transfer Learning for Deep RL** | TMLR 2026 | *coming soon* |
 | **Bidirectional End-to-End Framework for Transfer from Abstract Models in Non-Markovian RL** | NeUS (PMLR 288), 2025 | *coming soon* |
 | **[RLAF: Reinforcement Learning from Automaton Feedback](https://arxiv.org/abs/2510.15728)** | arXiv 2025 | *coming soon* |
